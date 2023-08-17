@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Lemonada-Bold.ttf",
+      "sha1": "12d501243c4fb5efb24b6b4a2e0b8196c329eb47"
+    },
+    {
+      "path": "assets/fonts/Lemonada-Light.ttf",
+      "sha1": "e36326033173ea4271af81c523a88f26d21cd368"
+    },
+    {
+      "path": "assets/fonts/Lemonada-Medium.ttf",
+      "sha1": "bb1806f5a3781fb549df0b725e669c8a0e0f9383"
+    },
+    {
+      "path": "assets/fonts/Lemonada-Regular.ttf",
+      "sha1": "9c4638671a5c492c7cab5b3cbc2ea06ccd3b8247"
+    },
+    {
+      "path": "assets/fonts/Lemonada-SemiBold.ttf",
+      "sha1": "88db0bcf40eb63db060e264963354f214fc4c7d3"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Italic-VariableFont_wght.ttf",
+      "sha1": "df1a17b6a12a7518575abe3f5cdc1d6cb0c7b390"
+    },
+    {
+      "path": "assets/fonts/Montserrat-VariableFont_wght.ttf",
+      "sha1": "b30f63a27bcdc61c2458d0ddfbbe738a01e39714"
+    }
+  ]
+}
